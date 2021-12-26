@@ -8,3 +8,4 @@ SavePlaylist = no
 UseRCC = yes
 UseRCCForFilesystem = yes
 OnSongChange = "/home/stayasinic/.scripts/moc-notify.sh"
+
