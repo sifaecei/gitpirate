@@ -1,0 +1,10 @@
+Theme = transparent-background
+MusicDir = /home/stayasinic/Music
+ShowFormat = yes
+Repeat = yes
+AutoNext = yes
+StartInMusicDir = yes
+SavePlaylist = no
+UseRCC = yes
+UseRCCForFilesystem = yes
+OnSongChange = "/home/stayasinic/.scripts/moc-notify.sh"
